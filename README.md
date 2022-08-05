@@ -8,6 +8,14 @@
   
   3、
   
+# 【leetcode算法】文章列表 
+
+  1、[算法系列之 剑指 offer （一）](https://juejin.cn/post/7024776970130948109)
+  
+  2、[算法系列之 剑指 offer （二）](https://juejin.cn/post/7026519566134018079)
+  
+  3、[算法系列之 剑指 offer （三）](https://juejin.cn/post/7026519872142049294)
+
 
 # 【人生不止技术】文章列表 
 
