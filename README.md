@@ -6,7 +6,9 @@
   
   2、[git实用复习篇之一步到位!](https://juejin.cn/post/7001378119739244574)
   
-  3、
+  3、[如何抹掉 github 上的 commit 记录？（慎用）](https://juejin.cn/post/7127524101278662693)
+  
+  4、[Good-code-books 前端经典常用好书分享](https://juejin.cn/post/7127523148689309733)
   
 # 【leetcode算法】文章列表 
 
@@ -19,7 +21,7 @@
 
 # 【人生不止技术】文章列表 
 
-  1、
+  1、[人生不止技术系列之犹太文明（1）](https://juejin.cn/post/7128265729240989733)
   
   2、
   
