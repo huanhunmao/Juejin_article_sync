@@ -13,6 +13,7 @@
   5、[程序员进阶系列（1）](https://juejin.cn/post/7129697147045281805)
   
   
+  
 # 【leetcode算法】文章列表 
 
   1、[算法系列之 剑指 offer （一）](https://juejin.cn/post/7024776970130948109)
@@ -43,7 +44,19 @@
   9、[前端性能优化实践之 未来篇 英语和外企（9）](https://juejin.cn/post/7075596508896165895)
   
   
+  # 【NPM 发包系列】
   
+  1、[Node gRPC 初印象 && 跑起来 (1)](https://juejin.cn/post/7130135499963891742)
+  
+  2、[npm 发包实践教程之 gRPC 怎么使用？（1）](https://juejin.cn/post/7130161124325998599)
+  
+  3、
+ 
+# 【效率系列】
+
+  1、[解决 Mac 同时连接Gitlab和Github问题 ](https://juejin.cn/post/7130500267929239588)
+  
+  2、
 
 # 【人生不止技术】文章列表 
 
