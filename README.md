@@ -34,6 +34,10 @@
   
   14、[富文本编辑器初尝试之wangEditor（1））](https://juejin.cn/post/7141935043915546637)
   
+  15、[前端监控实战之 Sentry](https://juejin.cn/post/7142845386065969166)
+  
+  16、[阅读React源码初尝试（1）](https://juejin.cn/post/7142397447095091213)
+  
   
 # 【原理简单说系列】文章列表 
   
